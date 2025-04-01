@@ -1,0 +1,5 @@
+[submodule "third/gcc"]
+	path = third/gcc
+	url = git@github.com:gcc-mirror/gcc.git
+	shallow = true
+	branch = master
